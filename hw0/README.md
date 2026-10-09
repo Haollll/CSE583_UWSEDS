@@ -1,0 +1,1 @@
+I’ve done this kind of thing a few times, so overall it went pretty smoothly. I created a hw0 folder in my course repo so I can add other homework folders in the future. And I used Claude to review to check everything is good.
